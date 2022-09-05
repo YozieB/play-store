@@ -23,7 +23,9 @@
 
 - swiper.js
 - wow.js
+- animate.css
 - jQuery
+- smoothScroll.js
 
 ## Github Pages
 
